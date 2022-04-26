@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">days3 mella2</string>
+    <string name="navigation_drawer_open">Buka Menu Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Menu Navigasi</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Main Navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gambar</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_developer">Pengembangan</string>
+    <string name="hint_username">Username</string>
+    <string name="silakan_login_untuk_memakai_aplikasi">Silakan login untuk memakai aplikasi</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_a_new_account">Buat Account Baru</string>
+    <string name="img_logo">logo</string>
+    <string name="imgsignin">Daftar</string>
+</resources>
